@@ -1,7 +1,15 @@
 # Tiny Chess — a chess engine in 4 KB of Python
 
-Entry for make.fun bounty **tiny-chess-01**: the strongest chess engine
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/smakmostacker-coder/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/smakmostacker-coder/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
+Entry for the [make.fun bounty **tiny-chess-01**](https://make.fun/bounty/tiny-chess-01): the strongest chess engine
 that fits in 4,096 bytes of Python, standard library only.
+
+Run it: `python3 main.py` in the repo root, with the trial environment
+variables set by the make.fun harness (MAKEFUN_ENV_URL,
+MAKEFUN_PROMPT_FILE, MAKEFUN_TRIAL_SEED).
 
 ## How it plays
 
